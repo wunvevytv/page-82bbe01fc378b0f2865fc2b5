@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "f33f14782c5cc2a794e12a9d",
+  "owner": "wunvevytv",
+  "repo": "page-82bbe01fc378b0f2865fc2b5",
+  "title": "吉吉云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "82bbe01fc378b0f2865fc2b5",
+      "a": "吉吉云",
+      "b": "",
+      "entity": "吉吉云",
+      "brand": "吉吉云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d1cd401864db394ad5bce64890bf4f1e9c9aacf6d8b44b317c768da13c0257e2",
+      "content": {
+        "keyword1": "吉吉云",
+        "keyword2": "",
+        "primary_entity": "吉吉云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "吉吉云以专栏作者视角，讲述云服务如何真正连接日常与无限。",
+          "AI_DESCRIPTION": "吉吉云以专栏作者视角，讲述云服务如何真正连接日常与无限。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        500;700&display=swap');\n        :root {--wine-red: #9C2A2A;--ivory: #F5F0E8}\n        * {margin: 0;padding: 0;box-sizing: border-box}\n        body {font-family: 'Noto Sans SC', system-ui, sans-serif;line-height: 1.8;color: #333;background: var(--ivory)}\n        .hero {height: 100vh;background: linear-gradient(to bottom, #9C2A2A, #D43F3F);display: flex;flex-direction: column;justify-content: center;align-items: center;color: white;text-align: center;position: relative;overflow: hidden}\n        .hero::before {content: '';position: absolute;top: 0;left: 0;right: 0;bottom: 0;background: radial-gradient(circle at center, rgba(245,240,232,0.1) 0%, transparent 70%)}\n        .hero h1 {font-size: clamp(3.5rem, 8vw, 7rem);font-weight: 700;letter-spacing: 8px;text-shadow: 0 4px 20px rgba(0,0,0,0.4);z-index: 2;margin-bottom: 20px}\n        .hero p {font-size: 1.4rem;max-width: 520px;z-index: 2}\n        nav {position: fixed;bottom: 0;left: 0;right: 0;background: rgba(156, 42, 42, 0.95);color: white;padding: 1rem 0;z-index: 100;display: flex;justify-content: space-around;align-items: center}\n        nav a {color: white;text-decoration: none;font-size: 1.05rem;font-weight: 500;transition: opacity 0.3s}\n        nav a:hover {opacity: 0.7}\n        main {padding: 60px 20px 120px;max-width: 1100px;margin: 0 auto}\n        h1 {font-size: 2.8rem;color: var(--wine-red);margin-bottom: 30px;position: relative;display: inline-block}\n        h1::after {content: '';position: absolute;width: 60px;height: 3px;background: var(--wine-red);bottom: -8px;left: 0}\n        h2 {font-size: 2.4rem;color: var(--wine-red);margin: 70px 0 30px;position: relative;display: inline-block}\n        h2::after {content: '';position: absolute;width: 80px;height: 3px;background: var(--wine-red);bottom: -8px;left: 0}\n        .intro {font-size: 1.25rem;max-width: 700px;margin: 40px auto;text-align: center;color: #555;font-style: italic}\n        .plan-section {margin: 80px 0}\n        .plans-grid {display: flex;flex-direction: column;gap: 24px}\n        .plan-card {background: white;border: 3px solid #F5F0E8;border-left: 12px solid var(--wine-red);padding: 40px 32px;transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);position: relative}\n        .plan-card:hover {border-left-color: #D43F3F;transform: translateY(-8px);box-shadow: 0 15px 35px -10px rgba(156, 42, 42, 0.15)}\n        .plan-card.featured {border-left-color: #D43F3F;background: #FFF9F5}\n        .plan-card h3 {font-size: 1.85rem;margin-bottom: 12px;color: var(--wine-red)}\n        .plan-price {font-size: 1.35rem;font-weight: 600;color: var(--wine-red);margin-bottom: 22px}\n        .plan-features {display: flex;flex-direction: column;gap: 14px}\n        .plan-features li {padding-left: 8px;position: relative}\n        .plan-features li:before {content: '▸';position: absolute;left: 0;color: var(--wine-red)}\n        .faq-section {margin: 90px 0 40px}\n        .faq-group {margin-bottom: 50px}\n        .faq-group h3 {font-size: 1.65rem;color: var(--wine-red);margin-bottom: 22px;padding-bottom: 12px;border-bottom: 2px solid #F5F0E8}\n        .faq-item {margin-bottom: 28px}\n        .faq-question {font-weight: 500;font-size: 1.25rem;margin-bottom: 12px;color: #222}\n        .faq-answer {padding: 22px 28px;background: #F8F4EF;border-radius: 12px;line-height: 1.75;color: #444}\n        footer {text-align: center;padding: 30px;font-size: 0.95rem;color: #777;background: #9C2A2A;color: white}\n    </style><div class=\"hero\">\n        <h1>吉吉云</h1>\n        <p>连接日常与无限</p>\n    </div>\n\n    <nav>\n        <a href=\"#plans\">套餐选择</a>\n        <a href=\"#faq\">常见问题</a>\n        <a href=\"#intro\">关于我们</a>\n        <a href=\"#contact\">联系方式</a>\n    </nav>\n\n    <main>\n        <h2>吉吉云</h2>\n        \n        <div class=\"intro\">\n            作为一位长期关注网络连接技术的专栏作者，我一直相信，真正的服务不在于技术参数，而在于它如何真正减轻用户的日常负担。吉吉云正是这样一种存在——它以一种平静却坚定的方式，告诉你：你的流量和设备连接，本该被精心对待，而不是被匆忙忽略。\n        </div>\n\n        <section id=\"intro\">\n            <h2>为什么我依然相信云端连接</h2>\n            <p>在过去的几年里，我采访过无数网络使用者。很多人抱怨节点不稳、流量限制、客服冷淡，却很少有人真正了解，一款好的服务究竟该如何被设计。它不该是喧闹的营销，而是像一篇专栏文章那样，带着作者的观察与思考，静静地呈现在用户面前。吉吉云正是这样一种存在。</p>\n            <p>它没有炫目的参数堆砌，也没有刻意的促销。它更像是一本记录日常使用体验的文章：每一笔流量、每一次连接，都被当作一篇文章中的一段细腻的叙述，而不是生硬的数据。</p>\n        </section>\n\n        <section id=\"plans\" class=\"plan-section\">\n            <h2>选择适合你的云端方案</h2>\n            <div class=\"plans-grid\">\n                <div class=\"plan-card\">\n                    <h3>基础版</h3>\n                    <div class=\"plan-price\">¥15/月　按年付仅需 ¥150/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 100GB 极速流量</li>\n                        <li>支持 3 台设备同时在线</li>\n                        <li>解锁基础流媒体</li>\n                        <li>普通线路节点池</li>\n                    </ul>\n                </div>\n                \n                <div class=\"plan-card featured\">\n                    <h3>旗舰版</h3>\n                    <div class=\"plan-price\">¥35/月　按年付仅需 ¥350/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 300GB 极速流量</li>\n                        <li>支持 5 台设备同时在线</li>\n                        <li>全节点原生流媒体解锁</li>\n                        <li>IPLC 专线游戏加速优化</li>\n                        <li>7x24 优先工单支持</li>\n                    </ul>\n                </div>\n                \n                <div class=\"plan-card\">\n                    <h3>团队版</h3>\n                    <div class=\"plan-price\">¥85/月　按年付仅需 ¥850/年</div>\n                    <ul class=\"plan-features\">\n                        <li>每月 1000GB 极速流量</li>\n                        <li>支持 20 台设备同时在线</li>\n                        <li>VIP 专属高带宽节点</li>\n                        <li>支持企业定制路由</li>\n                        <li>专属客户经理服务</li>\n                    </ul>\n                </div>\n            </div>\n        </section>\n\n        <section id=\"faq\" class=\"faq-section\">\n            <h2>常见问题解答</h2>\n            \n            <div class=\"faq-group\">\n                <h3>关于套餐权益</h3>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">基础版和旗舰版之间有什么本质区别？</div>\n                    <div class=\"faq-answer\">\n                        基础版更适合偶尔使用的人，它提供稳定的100GB流量和基础节点。旗舰版则多了IPLC专线和优先支持，让重度用户在高峰时段也能保持流畅。\n                    </div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">团队版适合哪些场景？</div>\n                    <div class=\"faq-answer\">\n                        适合需要多人同时在线、追求企业级定制的用户。它提供了专属节点和客户经理，是小团队成长为中型组织的理想选择。\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"faq-group\">\n                <h3>技术与使用</h3>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">我可以在多台设备上同时使用吗？</div>\n                    <div class=\"faq-answer\">\n                        基础版支持3台，旗舰版支持5台，团队版支持20台。不同套餐在线设备数量不同，建议根据实际需求选择。\n                    </div>\n                </div>\n            </div>\n            \n            <div class=\"faq-group\">\n                <h3>其他常见疑问</h3>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">吉吉云的节点分布是怎样的？</div>\n                    <div class=\"faq-answer\">\n                        所有套餐都基于智能节点池，覆盖主要国家和地区。用户可根据需求在节点间自由切换，获得最佳连接体验。\n                    </div>\n                </div>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        吉吉云 © 2025 | 专注云端连接的专栏观察\n    </footer>",
+          "hash": "8b41f17042bb929e656cb725a2d82aaefca7b22ed1237b4a969816f76c206ee2",
+          "seo": {
+            "title": "吉吉云 - 探索云端无限可能",
+            "keywords": "吉吉云,云服务,流量套餐,网络连接",
+            "description": "吉吉云以专栏作者视角，讲述云服务如何真正连接日常与无限。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "2457",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "buzyvr94579.cn",
+    "host": "p-f097f5fde3.buzyvr94579.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "8e89e1d01442f9bd12eb62e7478b83378bc4e8898031f9e1654b8760c955db93",
+    "sitemap.xml": "856978a36599262f7ec47309531a400b573833be8cc09ad6f12358bdbd47dcd9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4d74c3772fe63e65c5eac63677713f547b96238726df1369a8f48e952fa896bf",
+    "robots.txt": "db6f898825843c643898e80d65bc8b44c6913decb7673223d6c4a6101e9e3a8d",
+    "35cb5a5239178c3bc1b3f2d22aa91579.txt": "e74eee3706c3266e26ea0f25d46f53df0d181174182d052dcd2d86b37540fd93"
+  },
+  "revision": "6dc6f9cad11ee3db964bfde40247e03479d3ebd0f51571ba4c9c57687a8f6184"
+}
